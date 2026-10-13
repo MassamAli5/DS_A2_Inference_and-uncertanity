@@ -1,0 +1,22 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# Operating-system temporary files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+# Published supplementary workbook — sharing permission pending
+/Supplementary file.xlsx
